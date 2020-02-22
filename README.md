@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# eventos
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Eventos
-# This was written here by Kashish
->>>>>>> 0208d94648fa2feff7d7b7438f5f963c1b33811a
+## App Idea
+A date-wise and detailed list of **Events** and **Fest** 
