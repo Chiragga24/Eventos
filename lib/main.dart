@@ -18,7 +18,7 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
     Future.delayed(
-      Duration(seconds: 4),
+      Duration(seconds: 2),
       () {
         Navigator.push(
           context,
@@ -34,7 +34,7 @@ class _SplashScreenState extends State<SplashScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Image.asset('assets/images/app_icon.png', width: 300.0, height: 800.0),
+        child: Image.asset('assets/images/app_icon.png', width: 300.0, height: 100.0),
       ),
     );
   }
